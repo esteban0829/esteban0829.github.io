@@ -7,6 +7,7 @@ I am a 18 year old student currently living in EARTH! I started studying HTML fo
 
 My First C++ Program
 
+code
 ```markdown
 #include <iostram>
 int main(void)
@@ -17,6 +18,7 @@ int main(void)
   return 0;
 }
 ```
+result
 ```markdown
 hello World!
 ```
