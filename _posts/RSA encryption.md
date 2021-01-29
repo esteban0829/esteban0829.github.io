@@ -1,4 +1,12 @@
-﻿# RSA encryption
+---
+title: "RSA Encryption"
+date: 2021-01-29 16:04:10 -0400
+categories: RSA
+---
+
+
+ 
+# RSA encryption
 - RSA encryption 이란?
 - 자물쇠와 비밀번호
 - 오일러 피 함수(Euler's Phi function)
